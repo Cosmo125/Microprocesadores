@@ -1,1 +1,1 @@
-<h1>Benvenidos a la clase de Microprocesadores<h1>
+<h1 align="center">:robot:	Benvenidos a la clase de Microprocesadores :robot:	<h1>
