@@ -8,7 +8,7 @@
 
 <h2>Links de Descarga</h2>
 
-[Python](https://www.python.org/)
+[Python](https://www.python.org/)<br>
 [Thonny](https://thonny.org/)
 
 <h3>Simulador</h3>
