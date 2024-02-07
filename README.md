@@ -20,7 +20,7 @@
 [MicroPython](https://micropython.org/)
 
 <h2>PinOut ESP32</h2>
-![ESP32](Img/ESP32-Pinout.jpg)
+![ESP32](https://github.com/Cosmo125/Microprocesadores/blob/main/Img/ESP32-Pinout.jpg)
 
 
 
