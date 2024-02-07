@@ -20,7 +20,7 @@
 [MicroPython](https://micropython.org/)
 
 <h2>PinOut ESP32</h2>
-[ESP32](Img/ESP32-Pinout.webp)
+[ESP32](Img/ESP32-Pinout.jpg)
 
 
 
