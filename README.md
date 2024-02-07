@@ -15,7 +15,7 @@
 
 [Wokwi](https://wokwi.com/)
 
-<h3>MicroPython<h3>
+<h3>MicroPython</h3>
 
 [MicroPython](https://micropython.org/)
 
