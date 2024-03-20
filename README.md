@@ -9,7 +9,7 @@
 <h2>Links de Descarga</h2>
 
 [Python](https://www.python.org/)<br>
-[Thonny](https://thonny.org/)
+[Thonny](https://thonny.org/)<br>
 [LCD Libreras](https://github.com/dhylands/python_lcd/tree/master)
 
 <h3>Simulador</h3>
