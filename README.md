@@ -10,6 +10,7 @@
 
 [Python](https://www.python.org/)<br>
 [Thonny](https://thonny.org/)
+[LCD Libreras](https://github.com/dhylands/python_lcd/tree/master)
 
 <h3>Simulador</h3>
 
