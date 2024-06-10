@@ -20,6 +20,10 @@
 
 [MicroPython](https://micropython.org/)
 
+<h3>Driver ESP32</h3>
+
+[Driver](https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip)
+
 <h2>PinOut ESP32</h2>
 
 ![](https://github.com/Cosmo125/Microprocesadores/blob/main/Img/ESP32-Pinout.jpg)
