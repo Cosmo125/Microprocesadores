@@ -21,7 +21,7 @@ def on_rx():
         uart.write('la temperatura es')
     if rx_buffer == 'hola':
         print('como estas')
-        uart.write('la temperatura es')
+        uart.write('como estas')
 
 #creamos otra funcion que en este caso es una alerta este recibe los parametros de temperatura
 def warning(temp):
@@ -29,7 +29,7 @@ def warning(temp):
     temp = int(temp)
     #compara la temperatura
     if temp >= 100:
-        uart.write('alerta')
+        uart.write('alerta'+ '\n')
         print('alerta')
 #inicia el codigo, con una lectura de funcion, esta lo unico que hace es que si lee algo del dispositivo usa la funcion on_rx
 uart.irq(handler=on_rx)
