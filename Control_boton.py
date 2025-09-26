@@ -3,7 +3,7 @@ from machine import Pin
 #libreria para el tiempo
 import time
 
-#Asignacion de bariables
+#Asignacion de variables
 red = 2
 bot = 13
 
