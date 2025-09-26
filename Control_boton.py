@@ -9,7 +9,7 @@ bot = 13
 
 #Asignacion de salidas y entradas 
 led = Pin(red, Pin.OUT)
-boton = Pin(bot, Pin.IN)
+boton = Pin(bot, Pin.IN, Pin.PULL_DOWN)
 
 #inicio e sistema
 print("GO")
